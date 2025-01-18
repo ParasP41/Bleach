@@ -4,7 +4,7 @@ export default function Nav() {
   return (
     <>
         <Navbar className="bg-[url('https://i.pinimg.com/736x/93/55/e5/9355e5ed3fcea4b307378b2efde663eb.jpg')] bg-cover rounded-none text-white" fluid rounded>
-        <span className="self-center whitespace-nowrap text-3xl font-semibold dark:text-white">BLEACH</span>
+        <span className="self-center whitespace-nowrap text-3xl font-semibold ">BLEACH</span>
       <Navbar.Toggle/>
       <Navbar.Collapse >
         <Navbar className='cursor-pointer bg-transparent text-[17px]' href="/">Gotei 13</Navbar>
